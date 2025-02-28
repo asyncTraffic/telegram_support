@@ -44,4 +44,33 @@ Windows: `python3 bot.py`
 3. Теперь нам нужно создать обычную приватную(закрытую) группу/чат (кому как удобно это называть), включаем там темы и сохраняем: ![изображение](https://github.com/user-attachments/assets/85ab51c6-5860-483c-9469-bf92aef9597f)
 4. Возвращаемся в бота и жмем "Добавить бота в чат": ![изображение](https://github.com/user-attachments/assets/d26b3d6d-bc86-4562-a3d4-c9360aba6c4a)
 5. Выбираем ранее созданный чат с темами: ![изображение](https://github.com/user-attachments/assets/d879d5c9-ff6c-4926-9488-3efa5d26b28a)
-6. Выдаем вот такие права и жмем "Назначить бота администратором": ![изображение](https://github.com/user-attachments/assets/c8a92e88-9660-45b9-9b98-d0e8a6f44b7c) и после этого в боте жмем кнопку "Проверить", и если вы сделали все правильно у вас будет вот такой текст: ![изображение](https://github.com/user-attachments/assets/567ed50d-c8f7-487f-922b-90c84f2f88cc) жмем кнопку "Добавить"
+6. Выдаем вот такие права и жмем "Назначить бота администратором": ![изображение](https://github.com/user-attachments/assets/c8a92e88-9660-45b9-9b98-d0e8a6f44b7c)
+7. В боте жмем кнопку "Проверить", и если вы сделали все правильно у вас будет вот такой текст, под ним жмем кнопку "Задать": ![изображение](https://github.com/user-attachments/assets/567ed50d-c8f7-487f-922b-90c84f2f88cc)
+8. Если все сделали верно получим вот такой сообщение, далее нам нужно нажать на кнопку "Работа бота" и получаем меню с свитчами капчи, тех работ и тд, так же там можно настроить разрашенный контент ![изображение](https://github.com/user-attachments/assets/cf6d25b7-3696-44f3-a348-317547ced0e8)
+9. Готово! Бот готов к использованию
+
+# Скриншоты бота
+![изображение](https://github.com/user-attachments/assets/cd285d01-7bfa-4f94-ae50-744deb1d5219)
+
+![изображение](https://github.com/user-attachments/assets/4156dfab-250d-45f8-a049-cc6c1b822a9e)
+
+![изображение](https://github.com/user-attachments/assets/342442a2-9f20-457c-b7ad-6299265749be)
+
+![изображение](https://github.com/user-attachments/assets/8f2204e6-4cfe-401a-bc0c-e04e83b10172)
+
+![изображение](https://github.com/user-attachments/assets/4d2e38a1-2645-42e3-8420-556d5138647d)
+
+![изображение](https://github.com/user-attachments/assets/0e2cfb36-e5be-4107-8762-f4bc80a4a63c)
+
+![изображение](https://github.com/user-attachments/assets/5f0c8fda-aa17-4124-ab53-e31d585c010f)
+
+![изображение](https://github.com/user-attachments/assets/b7bc087f-d4f6-4ac4-8f4f-7839ba03c783)
+
+
+# Связь со мной
+
+TG: https://t.me/asyncTraffic
+
+
+
+
