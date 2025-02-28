@@ -22,12 +22,16 @@ Telegram support - телеграм бот для оказания поддер�
 В файле `data/config.py` меняем TOKEN на свой, так же добавляем корневого администратора, в коде показано что куда вставлять
 ## Создаем виртуально окружение: 
 Debian/Ubuntu: `python3 -m venv venv`
+
 Windows: `python -m venv venv`
+
 ## Установка модулей и запуск:
 ### Установка
 Debian/Ubuntu: `pip3 install -r requirements.txt`
+
 Windows: `pip install -r requirements.txt`
 
 ### Запуск:
 Debian/Ubuntu: `python3 bot.py`
+
 Windows: `python3 bot.py`
