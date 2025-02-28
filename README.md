@@ -66,6 +66,8 @@ Windows: `python3 bot.py`
 
 ![изображение](https://github.com/user-attachments/assets/b7bc087f-d4f6-4ac4-8f4f-7839ba03c783)
 
+![изображение](https://github.com/user-attachments/assets/3d256eac-865a-443a-9069-c99a377cd8d6)
+
 
 # Связь со мной
 
