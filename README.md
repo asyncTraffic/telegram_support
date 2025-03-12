@@ -71,7 +71,7 @@ Windows: `python3 bot.py`
 
 # Связь со мной
 
-TG: https://t.me/asyncTraffic
+TG: https://t.me/asynctraffic_tg
 
 
 
